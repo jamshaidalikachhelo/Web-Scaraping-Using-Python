@@ -1,0 +1,486 @@
+
+
+
+
+Solitaire - Free and Online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We use Javascript for our solitaire games, please enable Javascript in your browser
+
+
+
+
+
+
+
+
+Undo
+Hint
+
+
+New
+Games
+Menu
+Options
+
+
+
+  Login
+
+
+
+
+
+
+New Game
+Daily Challenges
+Numbered Games
+Options
+Statistics
+Share Game
+Rules
+ 
+Home Page
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Save
+
+Load 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solitaire Turn 1
+
+00:00
+Score: 0
+
+Moves: 0
+
+
+
+
+
+
+Share Game
+
+
+
+
+
+
+
+
+Play Solitaire for free online
+Welcome to Solitaire Bliss! Enjoy free Solitaire games such as Klondike (Solitaire one card and three cards), Spider Solitaire, and Freecell. Don't forget to check out all the other 36 games and all the special features: solvable-only game mode, statistics tracking, multiple and unique card sets, backgrounds and lots of customizations and options. You can even zoom in and out the game's board to make the cards smaller or larger.
+
+
+What is Solitaire?
+Solitaire is the collective term for hundreds of card games and activities requiring only one person. The game involves arranging a shuffled deck of cards into a specified order or tableau, no matter the variation.
+The origins of the game are a little hazy. One of the first documented references to the word "solitaire" was in a 17th-century engraving featuring Anne-Joulie de Rohan-Chabot, Princess Soubise, playing solitaire. However, this was a different game as it used pegs instead of cards.
+The card game Solitaire likely originated from cartomancy or tarot as an early form of fortune telling due to how cards are laid out in both practices. This is also supported by the use of the alternative term "cabale", which originated from the Medieval Latin "caballa", meaning secret knowledge.
+Some game variations have also been called patience, especially in England, Germany, and Portugal. Queen Victoria's German husband, Prince Albert, was notably fond of patience games.
+
+How to Play Solitaire
+Classic Solitaire, also known as klondike solitaire, is arguably the most popular form of solitaire today. Moreover, it's the version you can find on nearly every Microsoft computer since 1990, further cementing its place in modern culture. 
+You will need a standard deck to play a classic klondike game. The goal is to build the four suits into a foundation of aces.
+
+After shuffling, here's how you play:
+
+Deal 28 cards in seven piles across your table. The first pile would have one card; the second one would have two; the third pile would have three, and so on. The top card on each pile stays facing up, while the others are face-down cards. The rest of the cards will rest on a stock pile in your upper left hand.
+
+The four aces in the deck will serve as the foundations that you place in a row above your initial 28 cards as soon as they become available.
+
+You can place any movable card on another one that is higher in rank and with the opposite color. For example, you can play a red four on a black five. If more than one card is face up on a pile, you can move them together.
+If there is an empty space on the tableau, only a king can fill it.
+The player may use the cards on the stock pile to help them build sequences.
+You win after all  the card are placed in the foundation.
+
+3 Tips and Reminders for Winning at Solitaire
+
+One of the best ways to improve your solitaire-playing skills is by educating yourself about gameplay strategies.
+
+1. Think Ahead
+Be mindful about each action you take. Some moves could become irreversible, making you unable to continue the game, so think about possible consequences or outcomes for each move you make. The most crucial thing is to take your time and never rush. Do you remember? Solitaire is all about patience.
+
+2. Work on Larger Stacks First
+Revealing the cards in stacks or columns will give you better chances of getting cards that could help you out when building your sequences.
+
+3. Play Aces and Twos Immediately
+They don't usually help reveal hidden cards, either, so it's best to set them aside as soon as possible.
+
+FAQs on How to Play Solitaire
+1. How many versions of Solitaire are there?
+There are over 500 variations of Solitaire. However, more versions could be invented due to the game's simplicity and the many rule combinations one could make.
+
+2. Is Solitaire easy to learn?
+The rules of solitaire are pretty simple to understand, especially if one already has experience playing card games. Developing a winning strategy is the more challenging part.
+
+3. Is it possible to win every game of Solitaire that you play?
+The short answer is no. Some variations could be easier to win than others. Still, it's improbable that every game of solitaire could be winnable, especially considering the randomness of the cards and the sensitivity of each move.
+
+
+
+
+
+
+SolitaireSolitaire Turn 1Solitaire Turn 3Double Solitaire Turn 1Double Solitaire Turn 3Triple Solitaire Turn 1Triple Solitaire Turn 3HarpEasy HarpCanfieldWestcliff
+Spider SolitaireSpider SolitaireSpider Solitaire 1 SuitSpider Solitaire 2 SuitsSpider Solitaire 4 SuitsScorpion SolitaireEasy Scorpion SolitaireSpideretteSimple SimonEasthaven
+Card GamesHeartsWhistSpadesBeloteMemory
+Classic GamesMahjong SolitaireMinesweeper
+FreecellFreecellEasy FreecellEight OffEasy Eight OffBaker's Game
+YukonYukon SolitaireAustralian PatienceEasy Australian PatienceRussian SolitaireAlaska Solitaire
+Forty ThievesForty Thieves SolitaireJosephine SolitaireForty and Eight Solitaire
+Golf SolitairePyramid SolitairePyramid 2 PassesGolfEasy GolfTri PeaksEasy Tri PeaksHeart to HeartAll in A Row
+GuidesSolitaire GuidesSpider Solitaire Guides 
+
+
+
+Download Solitaire Bliss' Mobile App!
+ 
+
+
+
+
+
+
+
+
+
+Blog
+About us
+Terms of Use
+Privacy Policy
+Cookie Policy
+Advertise with us
+Contact us
+
+
+Follow us on:
+
+
+
+
+
+
+
+   
+©
+2009-2023 Solitaire Bliss, All Rights Reserved
+
+
+
+
+
+		Loading Cards...	
+
+
+
+
+
+Go to the Homepage?
+
+Yes
+Cancel
+
+
+
+
+
+Deal New Cards
+Restart Current Game
+
+
+Deal only games that can be won
+[ ? ]Even though winnable games are guaranteed to have a solution, the solution may not be obvious or easy
+
+
+
+Solitaire
+Spider
+Card Games
+Classics
+Freecell
+Yukon
+40 Thieves
+Pyramid
+Solitaire (Turn 1)Solitaire Turn 3
+Double Solitaire Turn 1
+Double Solitaire Turn 3
+Triple Solitaire Turn 1
+Triple Solitaire Turn 3
+Harp
+Easy Harp
+Canfield
+Westcliff
+Spider Solitaire 1 Suit
+Spider Solitaire 2 Suits
+Spider Solitaire 4 Suits
+Spiderette
+Scorpion Solitaire
+Easy Scorpion Solitaire
+Simple Simon
+Easthaven
+Hearts
+Whist
+Spades
+Belote
+Memory
+Mahjong Solitaire
+Minesweeper
+Freecell
+Easy Freecell
+Eight Off
+Easy Eight Off
+Baker's Game
+Yukon Solitaire
+Australian Patience
+Easy Australian Patience
+Russian Solitaire
+Alaska Solitaire
+Forty Thieves Solitaire
+Josephine Solitaire
+Forty and Eight Solitaire
+Pyramid Solitaire
+Pyramid 2 Passes
+Tri Peaks
+Easy Tri Peaks
+Golf
+Easy Golf
+Heart to Heart
+All in A Row
+ 
+
+
+
+
+Quick InstructionsSolitaire Turn 1
+Type: Solitaire
+Winning Statistics: 1 in 4 (About 25%)
+
+Goal: Move all of the cards to the foundations
+
+Foundations:
+
+Should be built from Ace to King (by cards sharing the same suit)
+The top card may be moved
+
+Piles:
+
+Can be built from King to Ace in alternating color order
+The top card can be moved--or--An ordered set of cards can be moved
+An empty pile may be filled with a King or an ordered set of cards starting with a King
+
+Stock:
+
+Click to turn one card to the waste
+Unlimited re-deals - when the stock is empty, click it to move all of the cards back from the waste
+
+Waste:
+
+Only the top card can be moved
+
+Close
+
+
+
+Keyboard Shortcuts
+	Spacebar - Deal a new cardH - Show HintU / Ctrl + Z - UndoN - Open the New Game menuPlus/Minus - Zoom in/out
+
+Game Paused
+Resume Game
+
+
+Play a Numbered GameCurrent game's number: 66666 [ ? ]Numbered games are pre-determined deals.Not all numbered games have a solution.Please choose a game number between 1 and 100,000,000
+ 
+
+
+Share/Bookmark Your Game
+
+
+
+
+
+
+
+Register to Solitaire Bliss
+Already have an account? Login here
+
+
+ 
+
+
+
+
+Or
+
+
+
+
+User name
+
+
+
+Email
+
+
+
+Password
+
+
+
+Confirm Password
+
+
+
+
+I'd like to receive daily challenges via emailReceive a daily email with solitaire games that guaranteed to be solvable
+
+
+
+Create an Account
+
+
+
+Welcome Back!
+
+
+ 
+
+
+
+
+Or
+
+
+
+
+User name
+Password
+ Forgot your user name or password?
+
+
+Login
+
+
+
+
+Register to Solitaire Bliss
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solitaire Everywhere!
+
+Check out our new appClick the icons or scan the QR code with your phone [ ? ]For iPhones - unlock you phone, open up the camera and hold it close to the QR code. For Android - if you don't have a QR Reader app - visit the site from a mobile web browser and click the banner!
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

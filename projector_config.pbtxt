@@ -1,0 +1,4 @@
+embeddings {
+  tensor_path: 'C:\Users\Jamshaid\Desktop\jupyter notebook\word_embeddings.tsv'
+  metadata_path: 'C:\Users\Jamshaid\Desktop\jupyter notebook\metadata.tsv'
+}
